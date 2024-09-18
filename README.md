@@ -1,4 +1,3 @@
-# ai-exploration.github.io
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="430" height="932" viewBox="0 0 430 932">
   <defs>
     <clipPath id="clip-iPhone_14_Pro_Max_1">
